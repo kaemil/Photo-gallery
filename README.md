@@ -2,6 +2,7 @@
 
 **Description:**
 Simple RWD picture gallery.
+
 **Why:**
 This project was created to practice grid layout module.
 
